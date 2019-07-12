@@ -1,8 +1,5 @@
 ## 欢迎使用 “师说CMS”
 
-> 使用Java语言开发的CMS（使用Apache2协议，可免费用于商业用途）<br>
-QQ群：7343505 <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=8330a17a4fdc8ee8dc65b546c27218aac74ba2ea6c34cf5fb75fffe31dc81be8"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="师说CMS技术交流" title="师说CMS技术交流"></a>
-
 ## 部署环境前提
 * eclipse
 * jdk7
@@ -18,7 +15,6 @@ QQ群：7343505 <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=83
 4. 然后在URI输入：https://git.oschina.net/shishuo/CMS.git
 5. 等待eclipse自动下载jar包
 6. 创建/sql/install.sql数据库
-7. 部署中可能还会碰到很多问题，请加入QQ群：7343505
 
 ## 部署到线上（生产）
 1. 复制 /src/main/resources/shishuocms.properties 到 /
@@ -54,11 +50,6 @@ QQ群：7343505 <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=83
 * 使用标签，方便前端模板开发
 * 使用注解，方便二次开发
 
-
-## 捐赠
-如果您喜欢“师说CMS”，认为“师说CMS”确实给您带来方便和帮助，那么欢迎您捐赠。这笔钱会用在“师说CMS”的服务器费用上。非常感谢，您的捐赠，是我们前进的动力。我们将定期公开捐赠和支出。<br>
-<a href='http://me.alipay.com/herbert'> <img src='https://img.alipay.com/sys/personalprod/style/mc/btn-index.png' /> </a>
-
 ## 演示地址
 [http://shishuocms.aliapp.com/](http://shishuocms.aliapp.com/)
 
@@ -75,7 +66,6 @@ QQ群：7343505 <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=83
 * Lucene
 
 ## 需求
-
  - 文章列表模块
  - 图片展示模块
  - 文件下载模块
@@ -83,29 +73,9 @@ QQ群：7343505 <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=83
  - 用户注册登录模块
  - 后台管理模块
 
-## 开发
 
-[长沙市师说网络科技有限公司][1]
 
-## 版权
 
-    Copyright 2013 Changsha Shishuo Network Technology Co., Ltd.
-    All rights reserved.
-    长沙市师说网络科技有限公司
-    版权所有
-    http://www.shishuo.com
-    
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-    
-    http://www.apache.org/licenses/LICENSE-2.0
-    
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
 
 
   
