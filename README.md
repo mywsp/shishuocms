@@ -108,5 +108,5 @@ QQ群：7343505 <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=83
     limitations under the License.
 
 
-  [1]: http://www.shishuo.com
+  
 
